@@ -1,0 +1,40 @@
+{
+  "name": "strabo-plugin-clipboard",
+  "version": "1.0.0",
+  "description": "Clipboard management plugin for Cordova",
+  "cordova": {
+    "id": "org.strabospot.clipboard",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StraboSpot/clipboard_plugin.git"
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "paste",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-wp8",
+    "cordova-windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "Strabo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StraboSpot/clipboard_plugin.git/issues"
+  },
+  "homepage": "https://github.com/StraboSpot/clipboard_plugin.git#readme"
+}
